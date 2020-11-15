@@ -244,22 +244,33 @@
           <nuxt-link class="mx-4 hover:text-teal-400 font-semibold" to="/"
             >Home</nuxt-link
           >
-          <nuxt-link class="mx-4 hover:text-teal-400 font-semibold" to="/about"
-            >About</nuxt-link
-          >
           <nuxt-link
             class="mx-4 hover:text-teal-400 font-semibold"
             to="/services"
-            >Services</nuxt-link
+            >Our Services</nuxt-link
           >
-          <nuxt-link class="mx-4 hover:text-teal-400 font-semibold" to="/works"
-            >Works</nuxt-link
+          <nuxt-link class="mx-4 hover:text-teal-400 font-semibold" to="/tour"
+            >Platform Tour</nuxt-link
+          >
+          <nuxt-link
+            class="mx-4 hover:text-teal-400 font-semibold"
+            to="/knowledge"
+            >Knowledge Base</nuxt-link
           >
           <nuxt-link
             class="mx-4 hover:text-teal-400 font-semibold"
             to="/pricing"
-            >pricing</nuxt-link
+            >Pricing</nuxt-link
           >
+          <nuxt-link
+            class="mx-4 hover:text-teal-400 font-semibold"
+            to="/community"
+            >Our Community</nuxt-link
+          >
+          <nuxt-link class="mx-4 hover:text-teal-400 font-semibold" to="/trial"
+            >Request A Trial</nuxt-link
+          >
+
           <button class="bg-teal-400 py-3 px-8 show-modal">
             Contact Now
           </button>
@@ -313,22 +324,36 @@
           <nuxt-link class="mx-4 hover:text-teal-400 font-semibold" to="/"
             >Home</nuxt-link
           >
-          <nuxt-link class="mx-4 hover:text-teal-400 font-semibold" to="/about"
-            >About</nuxt-link
-          >
           <nuxt-link
             class="mx-4 hover:text-teal-400 font-semibold"
             to="/services"
-            >Services</nuxt-link
+            >Our Services</nuxt-link
           >
-          <nuxt-link class="mx-4 hover:text-teal-400 font-semibold" to="/works"
-            >Works</nuxt-link
+          <nuxt-link class="mx-4 hover:text-teal-400 font-semibold" to="/tour"
+            >Platform Tour</nuxt-link
           >
           <nuxt-link
             class="mx-4 hover:text-teal-400 font-semibold"
-            to="/pricing"
-            >Pricing</nuxt-link
+            to="/knowledge"
+            >Knowledge Base</nuxt-link
           >
+          <nuxt-link
+            class="mx-4 hover:text-teal-400 font-semibold"
+            to="/knowledge"
+            >Knowledge Base</nuxt-link
+          >
+          <nuxt-link
+            class="mx-4 hover:text-teal-400 font-semibold"
+            to="/community"
+            >Our Community</nuxt-link
+          >
+          <nuxt-link class="mx-4 hover:text-teal-400 font-semibold" to="/trial"
+            >Request A Trial</nuxt-link
+          >
+
+          <button class="bg-teal-400 py-3 px-8 show-modal">
+            Contact Now
+          </button>
         </div>
       </div>
     </div>
